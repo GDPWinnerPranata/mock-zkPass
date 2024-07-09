@@ -1,0 +1,14 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "npx tsc && node lib/publish_so.js"
+  },
+  "dependencies": {
+    "@octokit/rest": "^21.0.0",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.10",
+    "typescript": "^5.5.3"
+  }
+}

@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo 'your mother' > target/release/libr0_zkpass_query.md5
+echo 'your mother' > target/release/libsp1_zkpass_query.md5
